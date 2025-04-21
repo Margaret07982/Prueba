@@ -1,6 +1,13 @@
 Feature:
   Scenario:
-sdfdsgfdsgdfgsfd
-    k,ojmmjiijmjmmjo
-    kkkkkkkkkkkk
+  When
+  Then
+    And
+    And
+    s
+    fwe
+    f
+    ew
+
+    fe
 
